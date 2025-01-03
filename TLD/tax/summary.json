@@ -1,0 +1,9 @@
+{
+    "date": "20250102",
+    "counts": {
+        "domains": 13897,
+        "new_domains": 29,
+        "removed_domains": 6,
+        "new_zonefile": false
+    }
+}

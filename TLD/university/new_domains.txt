@@ -1,0 +1,4 @@
+classes.university
+ideas.university
+jerusalem.university
+muallim.university

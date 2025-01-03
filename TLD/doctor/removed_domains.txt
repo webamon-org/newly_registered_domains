@@ -1,0 +1,7 @@
+aiagent.doctor
+cineblog01.doctor
+cnn.doctor
+naturalmedicine.doctor
+rested.doctor
+thewoodlands.doctor
+woodlands.doctor

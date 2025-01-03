@@ -1,0 +1,10 @@
+ak-online.auction
+bayern.auction
+four.auction
+loterij.auction
+loterija.auction
+lotre.auction
+lotteri.auction
+lotterie.auction
+r7.auction
+terra.auction

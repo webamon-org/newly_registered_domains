@@ -1,0 +1,2 @@
+global.webcam
+mercadolivre.webcam

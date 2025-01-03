@@ -1,0 +1,5 @@
+puma.soccer
+qiddiya.soccer
+reebok.soccer
+socialmedia.soccer
+socialnetwork.soccer

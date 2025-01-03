@@ -1,0 +1,9 @@
+aleppo.aero
+convergence.aero
+damascus.aero
+kingdomaviation.aero
+kyiv.aero
+pelican.aero
+ttech.aero
+valiair.aero
+wallet.aero

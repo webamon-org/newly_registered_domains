@@ -1,0 +1,3 @@
+20bet.observer
+alipay.observer
+onlineastro.observer

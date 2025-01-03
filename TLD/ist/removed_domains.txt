@@ -1,0 +1,2 @@
+ns1.quickly.com.tr.kosmos.ist
+ns2.quickly.com.tr.kosmos.ist

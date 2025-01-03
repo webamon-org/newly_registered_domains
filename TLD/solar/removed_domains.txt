@@ -1,0 +1,12 @@
+apb.solar
+blackout.solar
+ccr.solar
+guerilla.solar
+kilo.solar
+seniordiscount.solar
+solarpenny.solar
+suncrafter.solar
+sunlit.solar
+tankstelle.solar
+teamfreedom.solar
+verus.solar

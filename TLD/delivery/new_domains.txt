@@ -1,0 +1,4 @@
+daqayiq.delivery
+milano.delivery
+roma.delivery
+warelearn.delivery

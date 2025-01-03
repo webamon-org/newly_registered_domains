@@ -1,0 +1,6 @@
+agent.deals
+bulkorder.deals
+fangift.deals
+lil.deals
+reels.deals
+taisunwin.deals

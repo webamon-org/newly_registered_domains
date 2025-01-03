@@ -1,0 +1,12 @@
+anykey.deals
+blockbuster.deals
+digitalmarketing.deals
+freerange.deals
+gutter.deals
+icy.deals
+rock.deals
+rutor.deals
+spiele.deals
+swag.deals
+themmashop.deals
+unofficial.deals

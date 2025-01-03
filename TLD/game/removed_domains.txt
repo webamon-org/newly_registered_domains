@@ -1,0 +1,7 @@
+allpaanel.game
+bs.game
+bx.game
+g-one.game
+gone.game
+io.game
+opgg.game

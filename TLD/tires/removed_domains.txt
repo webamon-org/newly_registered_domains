@@ -1,0 +1,2 @@
+cnn.tires
+k8.tires

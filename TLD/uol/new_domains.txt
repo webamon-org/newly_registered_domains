@@ -1,0 +1,3 @@
+ns1.edge.uol
+ns2.edge.uol
+ns3.edge.uol

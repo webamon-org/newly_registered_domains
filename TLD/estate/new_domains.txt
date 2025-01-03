@@ -1,0 +1,6 @@
+delhi.estate
+depin.estate
+fontvieille.estate
+latinamerica.estate
+reim.estate
+terraprime.estate

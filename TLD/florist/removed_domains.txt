@@ -1,0 +1,11 @@
+charlotte.florist
+lancaster.florist
+northport.florist
+peoria.florist
+scranton.florist
+spartanburg.florist
+terra.florist
+theneighborhood.florist
+tinder.florist
+urban.florist
+youngstown.florist

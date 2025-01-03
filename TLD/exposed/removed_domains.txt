@@ -1,0 +1,2 @@
+cnn.exposed
+powur.exposed

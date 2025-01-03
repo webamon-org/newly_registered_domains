@@ -1,0 +1,6 @@
+aidoctor.vet
+doctorai.vet
+natuerlich.vet
+sancaktepe.vet
+svo.vet
+verhalten.vet

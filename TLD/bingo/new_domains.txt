@@ -1,0 +1,5 @@
+children.bingo
+childrens.bingo
+kids.bingo
+pets.bingo
+printable.bingo

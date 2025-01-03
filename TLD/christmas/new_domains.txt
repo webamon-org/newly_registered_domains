@@ -1,0 +1,7 @@
+bazokabet.christmas
+cassandra.christmas
+detail.christmas
+kulok.christmas
+pried.christmas
+roma.christmas
+theme.christmas

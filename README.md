@@ -9,7 +9,7 @@ ICANN requires that TLD zone files be updated in CZDS by **7:00 AM UTC**, and th
 ## 🌍 Zone File Coverage
 
 - **Total Zone Files in CZDS**: 1,132
-- **Zone Files Webamon Has Access To**: 983
+- **Zone Files Webamon Has Access To**: 1051
 
 This repository reflects only the TLDs for which Webamon has access to the zone files. Access to zone files is subject to the zone holders approval process.
 

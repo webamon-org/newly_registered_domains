@@ -1,0 +1,7 @@
+globalmonetaryreserve.discount
+globalmonetaryreserves.discount
+globalreservecurrency.discount
+globalreservefund.discount
+globalreservesfund.discount
+join.discount
+saasy.discount

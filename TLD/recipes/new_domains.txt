@@ -1,0 +1,3 @@
+78win.recipes
+agentic.recipes
+cheddar.recipes

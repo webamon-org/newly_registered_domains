@@ -1,0 +1,2 @@
+gobet.men
+smax.men

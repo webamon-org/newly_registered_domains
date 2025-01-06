@@ -1,0 +1,4 @@
+apes.estate
+big88.estate
+mal.estate
+passive.estate

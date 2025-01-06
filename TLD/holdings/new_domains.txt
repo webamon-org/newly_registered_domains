@@ -1,0 +1,6 @@
+basisequity.holdings
+beck.holdings
+bgh.holdings
+brc.holdings
+gentek.holdings
+shahi.holdings

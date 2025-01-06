@@ -1,0 +1,7 @@
+atoll.estate
+bitcoincity.estate
+integrated.estate
+investmentinreal.estate
+newluxury.estate
+pl.estate
+resort.estate

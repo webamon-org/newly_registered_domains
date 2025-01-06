@@ -1,0 +1,4 @@
+biotech.supply
+cnc.supply
+kittykat.supply
+smartwatch.supply

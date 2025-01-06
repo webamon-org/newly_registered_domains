@@ -1,0 +1,7 @@
+banyantree.property
+belmond.property
+crownplaza.property
+hiltongarden.property
+oberoi.property
+okura.property
+oneandonly.property

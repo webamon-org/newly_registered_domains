@@ -1,0 +1,2 @@
+ns1.wordle.game
+ns2.wordle.game

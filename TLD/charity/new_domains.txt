@@ -1,0 +1,3 @@
+localpublic.charity
+mfva.charity
+military.charity

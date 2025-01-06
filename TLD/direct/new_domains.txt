@@ -1,0 +1,8 @@
+bits.direct
+cotti.direct
+gobet.direct
+icons.direct
+onlinesports.direct
+outfit.direct
+twin.direct
+xnmall.direct

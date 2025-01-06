@@ -1,0 +1,2 @@
+etq.equipment
+mylife.equipment

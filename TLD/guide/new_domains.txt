@@ -1,0 +1,6 @@
+appendix.guide
+edf.guide
+globetrotter.guide
+jaen.guide
+sba.guide
+testament.guide

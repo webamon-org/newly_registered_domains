@@ -1,0 +1,3 @@
+highcapital.apartments
+plovdiv.apartments
+varna.apartments

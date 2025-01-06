@@ -1,0 +1,6 @@
+electricpanels.direct
+fundraising.direct
+openvpn.direct
+slash.direct
+startech.direct
+winbox.direct

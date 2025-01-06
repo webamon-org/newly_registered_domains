@@ -1,0 +1,3 @@
+aegis.ngo
+atlas.ngo
+sama.ngo

@@ -1,0 +1,3 @@
+electriceelrecords.audio
+falseicons.audio
+slop.audio

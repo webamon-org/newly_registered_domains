@@ -1,0 +1,4 @@
+avatar.webcam
+avatars.webcam
+bilibili.webcam
+hotmart.webcam

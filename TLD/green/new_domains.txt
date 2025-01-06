@@ -1,0 +1,4 @@
+big88.green
+deepseek.green
+grok3.green
+thinking.green

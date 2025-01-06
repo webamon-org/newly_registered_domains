@@ -1,0 +1,7 @@
+cheddar.markets
+nuri.markets
+shopup.markets
+simulacra.markets
+tickspike.markets
+wadai.markets
+xnmall.markets

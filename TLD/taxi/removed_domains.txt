@@ -1,0 +1,6 @@
+foto.taxi
+howmuchfare.taxi
+kosovo-yellow.taxi
+pettransportuk.taxi
+pinkrides.taxi
+yhu.taxi

@@ -1,0 +1,3 @@
+blank.observer
+mondo.observer
+wallet.observer

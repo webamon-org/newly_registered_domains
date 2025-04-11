@@ -1,0 +1,2 @@
+loccitane.hot
+qlik.hot

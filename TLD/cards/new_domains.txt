@@ -1,0 +1,7 @@
+58win.cards
+azuredragons.cards
+mindmap.cards
+ns1.myvisit.cards
+ns2.myvisit.cards
+realtrump.cards
+share.cards

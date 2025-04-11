@@ -1,0 +1,7 @@
+food-prep.recipes
+future.recipes
+greekeats.recipes
+growth.recipes
+kulturalkreations.recipes
+neom.recipes
+usability.recipes

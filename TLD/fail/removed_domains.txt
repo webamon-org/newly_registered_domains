@@ -1,0 +1,3 @@
+colossal.fail
+eelmail.fail
+home.eelmail.fail

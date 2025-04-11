@@ -1,0 +1,12 @@
+aib.deals
+autotogel.deals
+bestvps.deals
+depot.deals
+flashscore.deals
+oktogel.deals
+rte.deals
+serp.deals
+trader.deals
+trading.deals
+tubesafari.deals
+xis7.deals

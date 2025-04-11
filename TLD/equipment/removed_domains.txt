@@ -1,0 +1,6 @@
+agi.equipment
+auto-lot.equipment
+gpi.equipment
+neom.equipment
+swimtraining.equipment
+vertical.equipment

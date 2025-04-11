@@ -1,0 +1,4 @@
+all_domains.txt
+config.json
+private_*
+monitored_domains/

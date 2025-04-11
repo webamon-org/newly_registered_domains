@@ -1,0 +1,6 @@
+cookinghealthy.recipes
+crystal.recipes
+jackedcookbook.recipes
+morningstar.recipes
+potions.recipes
+semen.recipes

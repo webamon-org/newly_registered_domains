@@ -1,0 +1,11 @@
+aib.voyage
+budapest.voyage
+coffee.voyage
+exo.voyage
+madrid.voyage
+media.voyage
+moscow.voyage
+neom.voyage
+rte.voyage
+trippie.voyage
+vienna.voyage

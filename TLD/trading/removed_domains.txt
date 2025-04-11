@@ -1,0 +1,5 @@
+babylonchain.trading
+hymn.trading
+satoshisvms.trading
+sol.trading
+velo.trading

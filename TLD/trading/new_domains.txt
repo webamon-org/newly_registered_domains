@@ -1,0 +1,10 @@
+apt.trading
+azimuth.trading
+chartai.trading
+nexlpg.trading
+ns1.apt.trading
+ns2.apt.trading
+oa.trading
+opulus.trading
+qfs.trading
+quantum-ai.trading

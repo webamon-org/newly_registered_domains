@@ -1,0 +1,5 @@
+doctors.financial
+tokenizationauto.financial
+trade360.financial
+verde.financial
+verna.financial

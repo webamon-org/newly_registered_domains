@@ -1,0 +1,23 @@
+{
+    "date": "20250410",
+    "runtime": {
+        "download_zone_files": 299.21,
+        "unzip_gz_files": 76.79,
+        "delete_gz_files": 1.29,
+        "clean_files": 295.59,
+        "find_new": 120.72,
+        "find_removed": 117.96,
+        "save_to_opensearch": 43.65,
+        "delete_aged": 1.04,
+        "total": 956.25
+    },
+    "counts": {
+        "domains": 238859174,
+        "new_domains": 317032,
+        "removed_domains": 288285,
+        "zonefiles_parsed": 1079,
+        "new_zonefiles": 0,
+        "removed_zonefiles": 1,
+        "total_zone_links": 1079
+    }
+}

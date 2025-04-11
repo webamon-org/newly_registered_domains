@@ -1,0 +1,12 @@
+aib.singles
+chatonly.singles
+dateadult.singles
+dismatch18.singles
+flirt-date.singles
+future.singles
+neom.singles
+ns1.dismatch18.singles
+ns2.dismatch18.singles
+rte.singles
+shopping.singles
+soulverse.singles

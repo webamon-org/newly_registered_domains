@@ -1,0 +1,5 @@
+giftcardmall-mygift.gifts
+kado.gifts
+mini.gifts
+morningstar.gifts
+whisky.gifts

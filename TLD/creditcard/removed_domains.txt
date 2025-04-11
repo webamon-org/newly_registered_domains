@@ -1,0 +1,4 @@
+aib.creditcard
+flashscore.creditcard
+outofbudget.creditcard
+rte.creditcard

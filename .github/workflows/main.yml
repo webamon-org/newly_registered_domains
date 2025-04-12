@@ -2,7 +2,7 @@ name: Mirror Codeberg → GitHub
 
 on:
   schedule:
-    - cron: '30 7 * * *'  # 7:30 AM UTC daily
+    - cron: '*/5 * * * *'  # Every 5 minutes (for testing)
   workflow_dispatch:
 
 jobs:
@@ -10,14 +10,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clone Codeberg repo
+      - name: 📥 Clone Codeberg repo
         run: |
           set -e
           echo "📥 Cloning from Codeberg..."
           git clone https://codeberg.org/webamon/newly_registered_domains
           cd newly_registered_domains
-          echo "🔁 Adding GitHub remote..."
-          git remote add github https://webamon-org:${{ secrets.NRD_PUSH_TOKEN }}@github.com/webamon-org/newly_registered_domains.git
-          echo "🚀 Pushing branches and tags..."
-          git push github --all
+
+          echo "🔁 Adding GitHub as remote..."
+          git remote add github https://x-access-token:${{ secrets.NRD_PUSH_TOKEN }}@github.com/webamon-org/newly_registered_domains.git
+
+          echo "📦 Pulling GitHub main to merge any differences (safely)..."
+          git fetch github
+          git pull github main --rebase || true  # Skip errors if histories are too different
+
+          echo "🚀 Pushing updated branches and tags to GitHub..."
+          git push github main
           git push github --tags

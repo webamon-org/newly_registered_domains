@@ -1,3 +1,13 @@
+# 📢 **Repository Has Moved**
+
+⚠️ **IMPORTANT:** This project is no longer maintained on this platform.  
+It has been **moved permanently** to **[https://codeberg.org/webamon/newly_registered_domains](https://codeberg.org/webamon/newly_registered_domains)**.  
+
+Please update your bookmarks, scripts, and automation to pull from the new location.  
+Future updates will **only** be available there.
+
+---
+
 # Daily Domain Updates from ICANN Centralized Zone Data Service (CZDS)
 
 This repository provides a daily snapshot of newly registered and removed domains sourced from the [ICANN Centralized Zone Data Service (CZDS)](https://czds.icann.org). It aggregates data across all generic and new top-level domains (TLDs) and updates daily by **7.29 AM UTC** for the previous day's domain changes.
